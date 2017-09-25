@@ -1,11 +1,33 @@
 * {
   font-family: Verdana;
-  text-align: center;
   background-color: black;
 }
 
-.header {
+.header{
   font-weight:normal;
   font-size: 50px;
   color: white;
+  text-align: center;
+}
+
+.download {
+  font-size: 16px;
+  text-align: center;
+}
+
+.info {
+  color: white;
+  text-align: center;
+}
+
+.excursion{
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+
+.copyright{
+  text-align: right;
+  color: gray;
 }
